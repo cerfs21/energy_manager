@@ -12,10 +12,8 @@ The proposed application will ultimately deliver the following services and func
 
 This project also intends to implement state-of-art methods and tools:
 + Scrum and CI/CD approaches and tools;
-- container-based microservice architecture (data flows, data storage, device control, user interface...);
-* artificial intelligence such as Machine Learning (data analysis, decision algorithms...).
++ container-based microservice architecture (data flows, data storage, device control, user interface...);
++ artificial intelligence such as Machine Learning (data analysis, decision algorithms...).
 
 
-[^first]: a quite sunny weather forecast in summer would typically result in:
-+ limiting the use of carbon energies to produce hot water the night before;
-+ using the solar pump for the sole purpose of cooling solar panels the next day.
+[^first]: a quite sunny weather forecast in summer would typically result in limiting the use of carbon energies to produce hot water the night before.
